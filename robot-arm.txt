@@ -1,2 +1,2 @@
-Robot arm design v1: Basic gripper
+Robot arm design v2: MAIN BRANCH - Heavy duty gripper
 Added: Wrist rotation mechanism
