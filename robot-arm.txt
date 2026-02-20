@@ -1,1 +1,2 @@
 Robot arm design v1: Basic gripper
+Added: Wrist rotation mechanism
