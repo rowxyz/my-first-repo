@@ -1,2 +1,2 @@
-Robot arm design v1: Basic gripper
+Robot arm design v2: DEV BRANCH - Precision gripper for small parts
 Added: Wrist rotation mechanism
