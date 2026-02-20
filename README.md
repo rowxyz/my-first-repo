@@ -1,2 +1,4 @@
 # my-first-repo
-This is my first repository.
+
+Learning Git basics
+This is my very first change!
